@@ -17,7 +17,7 @@ A Java calculator application performing basic arithmetic operations with input 
 ### Running the Program
 ```bash
 # Compile
-javac BasicTwoDigitCalculator.java
+javac BasicTwoInputCalculator.java
 
 # Run
-java BasicTwoDigitCalculator
+java BasicTwoInputCalculator
