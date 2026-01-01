@@ -19,7 +19,7 @@ public class BasicTwoInputCalculator {
     //      ===welcome massage Method===
     public static void display() {
         System.out.println("=".repeat(50));
-        System.out.println("        Basic Two Digit Calculator");
+        System.out.println("        Basic Two Input Calculator");
         System.out.println("=".repeat(50));
 
     }
@@ -130,3 +130,4 @@ public class BasicTwoInputCalculator {
 
     }
 }
+
